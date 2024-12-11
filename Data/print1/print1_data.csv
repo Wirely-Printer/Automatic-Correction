@@ -1,0 +1,17 @@
+img_path,timestamp,flow_rate,feed_rate,z_offset,target_hotend,hotend,bed,nozzle_tip_x,nozzle_tip_y,img_num,print_id
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_0.jpg,2024-11-28_14-17-06,100,100,0,0,0,0,531,554,0,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_1.jpg,2024-11-28_14-17-06,100,100,0,0,0,0,531,554,1,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_2.jpg,2024-11-28_14-17-07,100,100,0,0,0,0,531,554,2,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_3.jpg,2024-11-28_14-17-07,100,100,0,0,0,0,531,554,3,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_4.jpg,2024-11-28_14-17-07,100,100,0,0,0,0,531,554,4,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_5.jpg,2024-11-28_14-17-08,100,100,0,0,0,0,531,554,5,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_6.jpg,2024-11-28_14-17-08,100,100,0,0,0,0,531,554,6,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_7.jpg,2024-11-28_14-17-09,100,100,0,0,0,0,531,554,7,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_8.jpg,2024-11-28_14-17-09,100,100,0,0,0,0,531,554,8,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_9.jpg,2024-11-28_14-17-10,100,100,0,0,0,0,531,554,9,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_10.jpg,2024-11-28_14-17-10,100,100,0,0,0,0,531,554,10,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_11.jpg,2024-11-28_14-17-11,100,100,0,0,0,0,531,554,11,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_12.jpg,2024-11-28_14-17-11,100,100,0,0,0,0,531,554,12,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_13.jpg,2024-11-28_14-17-12,100,100,0,0,0,0,531,554,13,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_14.jpg,2024-11-28_14-17-12,100,100,0,0,0,0,531,554,14,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print1\image_15.jpg,2024-11-28_14-17-13,100,100,0,0,0,0,531,554,15,unknown
