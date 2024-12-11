@@ -1,0 +1,15 @@
+1- install anaconda from miniconda installer (I think I took the link from your colab)
+
+2- conda create --name torch_env python=3.9
+
+3- conda activate torch_env
+
+4- conda install pytorch torchvision torchaudio pytorch-cuda=12.1 -c pytorch -c nvidia
+NOTE: I had already installed CUDA 12.6 on my laptop. It's very important to match the cuda on the laptop with the one in the command. (12.6 is compatible with 12.1)
+to check if it worked, run python cuda_test.py
+
+5- pip install pytorch-lightning
+
+6- pip install pandas
+
+7- pip install tensorboard
