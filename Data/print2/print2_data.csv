@@ -1,0 +1,6 @@
+img_path,timestamp,flow_rate,feed_rate,z_offset,target_hotend,hotend,bed,nozzle_tip_x,nozzle_tip_y,img_num,print_id
+C:\Users\Charbel\Desktop\OctoRest\Data\print2\image_0.jpg,2024-11-28_14-17-24,100,100,0,0,0,0,531,554,0,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print2\image_1.jpg,2024-11-28_14-17-25,100,100,0,0,0,0,531,554,1,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print2\image_2.jpg,2024-11-28_14-17-25,100,100,0,0,0,0,531,554,2,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print2\image_3.jpg,2024-11-28_14-17-26,100,100,0,0,0,0,531,554,3,unknown
+C:\Users\Charbel\Desktop\OctoRest\Data\print2\image_4.jpg,2024-11-28_14-17-26,100,100,0,0,0,0,531,554,4,unknown
